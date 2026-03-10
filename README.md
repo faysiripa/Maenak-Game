@@ -1,4 +1,4 @@
-Mae Nak Game is passionated by ‘like dino!’ game.
+Maenak Game is passionated by ‘like dino!’ game.
 
 <img width="557" height="459" alt="image" src="https://github.com/user-attachments/assets/4ddaa08f-88a2-4292-bc43-ab598c727b5a" />
 
